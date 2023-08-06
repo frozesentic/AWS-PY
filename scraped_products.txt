@@ -1,0 +1,1057 @@
+Product Name: HP
+Product Price: € 379,00
+Product URL: https://www.amazon.nl/Celeron-DualCore-Graphics-Bluetooth-Windows/dp/B0C77M1C4Q/ref=sr_1_1?keywords=laptop&qid=1691351574&sr=8-1
+------------------------------
+Product Name: 13.5" 3000×2000 IPS Ultradunne Volledig Metalen Notebook (Intel® N4120 2.6 GHz,8 GB DDR4,256 GB SSD, USB 3.0,Bluetooth,Intel UHD Graphics 600, mHDMI,Windows 11,WPS Office,Verlicht keyboard)
+Product Price: € 240,99
+Product URL: https://www.amazon.nl/3000%C3%972000-Ultradunne-Volledig-Notebook-Bluetooth/dp/B09YYDKQK5/ref=sr_1_2?keywords=laptop&qid=1691351574&sr=8-2
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 405,68
+Product URL: https://www.amazon.nl/Microsoft-Notebook-Platinum-Touchscreen-LPDDR4x-SDRAM/dp/B08J49VFNG/ref=sr_1_3?keywords=laptop&qid=1691351574&sr=8-3
+------------------------------
+Product Name: Dell Latitude E7270 Light Compact 12 inch
+Product Price: € 181,14
+Product URL: https://www.amazon.nl/Dell-Latitude-Compact-generatie-vernieuwd/dp/B081NRDH6Q/ref=sr_1_4?keywords=laptop&qid=1691351574&sr=8-4
+------------------------------
+Product Name: 14,1 inch Windows11丨Ultra Thin Full HD (1920 x 1080) IPS Display丨4 GB RAM 64 GB eMMC Notebook丨Meerdere Uitbreidingspoorten丨2.4G WiFi BT 4.0 USB 3.0丨voor Home School Business Wit
+Product Price: € 170,99
+Product URL: https://www.amazon.nl/Windows11%E4%B8%A8Ultra-Display%E4%B8%A84-Notebook%E4%B8%A8Meerdere-Uitbreidingspoorten%E4%B8%A82-4G-3-0%E4%B8%A8voor/dp/B0BNMN13WK/ref=sr_1_5?keywords=laptop&qid=1691351574&sr=8-5
+------------------------------
+Product Name: Windows 11
+Product Price: € 349,99
+Product URL: https://www.amazon.nl/quad-core-TF-kaartuitbreiding-IPS-scherm-behuizing-ingebouwd/dp/B0B6HN4C85/ref=sr_1_6?keywords=laptop&qid=1691351574&sr=8-6
+------------------------------
+Product Name: Asus
+Product Price: € 369,00
+Product URL: https://www.amazon.nl/Laptop-X415EA-EK1023W-Full-HD-Windows-Toetsenbord/dp/B0BK9NZF3G/ref=sr_1_7?keywords=laptop&qid=1691351574&sr=8-7
+------------------------------
+Product Name: Dell Latitude E5470 14 inch HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Home Business Notebook
+Product Price: € 199,00
+Product URL: https://www.amazon.nl/Dell-Latitude-geheugen-Business-gereviseerd/dp/B0B76MBFRT/ref=sr_1_8?keywords=laptop&qid=1691351574&sr=8-8
+------------------------------
+Product Name: Okuyonic
+Product Price: € 238,39
+Product URL: https://www.amazon.nl/Okuyonic-ros%C3%A9goud-processor-vingerafdruk-multi-interface/dp/B0C9B1T1R7/ref=sr_1_9?keywords=laptop&qid=1691351574&sr=8-9
+------------------------------
+Product Name: Asus
+Product Price: € 399,00
+Product URL: https://www.amazon.nl/X515EA-EJ914W-Full-HD-i3-1115G4-Windows-Toetsenbord/dp/B0BPMD836M/ref=sr_1_10?keywords=laptop&qid=1691351574&sr=8-10
+------------------------------
+Product Name: HP Pavilion
+Product Price: € 749,00
+Product URL: https://www.amazon.nl/HP-15-eg2660nd-Antiglare-X-videokaart-Toetsenbord/dp/B0C4F6KZP6/ref=sr_1_11?keywords=laptop&qid=1691351574&sr=8-11
+------------------------------
+Product Name: HP
+Product Price: € 599,00
+Product URL: https://www.amazon.nl/HP-17-cp2635nd-Antiglare-Windows-QWERTY-Toetsenbord/dp/B0C4F4KNCR/ref=sr_1_12?keywords=laptop&qid=1691351574&sr=8-12
+------------------------------
+Product Name: HP Elitebook 840 G3 Premium Business
+Product Price: € 399,00
+Product URL: https://www.amazon.nl/HP-Elitebook-840-G3-Business/dp/B0BWK76Y81/ref=sr_1_13?keywords=laptop&qid=1691351574&sr=8-13
+------------------------------
+Product Name: Lenovo ThinkPad X270 12,5 inch HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 11 Home Webcam incl. Docking GRATIS Notebook
+Product Price: € 293,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-geheugen-Notebook-gereviseerd/dp/B0BM5JVLL2/ref=sr_1_14?keywords=laptop&qid=1691351574&sr=8-14
+------------------------------
+Product Name: ACER Chromebook 314 | 14" Full-HD IPS | Intel Celeron N4120 Quad Core | 4GB RAM | 64GB eMMC | Chrome OS | QWERTY Toetsenbord
+Product Price: € 341,03
+Product URL: https://www.amazon.nl/Chromebook-Full-HD-Celeron-Chrome-Toetsenbord/dp/B09CV9Y8BV/ref=sr_1_15?keywords=laptop&qid=1691351574&sr=8-15
+------------------------------
+Product Name: HP
+Product Price: € 599,00
+Product URL: https://www.amazon.nl/HP-Laptop-15s-eq2420nd-Windows-Toetsenbord/dp/B0BKGZVKM9/ref=sr_1_16?keywords=laptop&qid=1691351574&sr=8-16
+------------------------------
+Product Name: Windows 11
+Product Price: € 269,99
+Product URL: https://www.amazon.nl/Windows-Notebook-behuizing-Graphics-Bluetooth/dp/B0BJK84ZXP/ref=sr_1_17?keywords=laptop&qid=1691351574&sr=8-17
+------------------------------
+Product Name: BYYBUO
+Product Price: € 201,66
+Product URL: https://www.amazon.nl/BYYBUO-Ultrabook-Bluetooth-ondersteuning-toetsenbord/dp/B0BZD6H7Z3/ref=sr_1_18?keywords=laptop&qid=1691351574&sr=8-18
+------------------------------
+Product Name: Asus VivoBook X712EA-AU719W | 17.3" Full-HD IPS | Intel Core i3 1115G4 | 8GB RAM DDR4 | 512GB SSD | Windows OS | QWERTY Toetsenbord
+Product Price: € 549,00
+Product URL: https://www.amazon.nl/VivoBook-X712EA-AU719W-Full-HD-Windows-Toetsenbord/dp/B0BK9MM364/ref=sr_1_19?keywords=laptop&qid=1691351574&sr=8-19
+------------------------------
+Product Name: 12,5 Inch Windows 11, Intel Celeron N4100 Quad Core 8GB RAM+256GB SSD, 2K 2560 * 1440 Sharp LCD, Vingerafdruk, Verlicht toetsenbord, 5G/AC WIFI, Dun en licht, Volledig metalen behuizing, grijs
+Product Price: € 249,99
+Product URL: https://www.amazon.nl/Vingerafdruk-Verlicht-toetsenbord-Volledig-behuizing/dp/B09ZQB82CB/ref=sr_1_20?keywords=laptop&qid=1691351574&sr=8-20
+------------------------------
+Product Name: HP Pavilion 14-ec008ns
+Product Price: € 717,23
+Product URL: https://www.amazon.nl/HP-Pavilion-14-ec008ns-Graphics-Windows/dp/B096V68BNM/ref=sr_1_21?keywords=laptop&qid=1691351574&sr=8-21
+------------------------------
+Product Name: HP
+Product Price: € 329,00
+Product URL: https://www.amazon.nl/HP-15s-fq0610nd-Antiglare-Celeron-QWERTY-Toetsenbord/dp/B0C4F4XX7F/ref=sr_1_22?keywords=laptop&qid=1691351574&sr=8-22
+------------------------------
+Product Name: Morostron
+Product Price: € 550,99
+Product URL: https://www.amazon.nl/Morostron-IPS-scherm-toetsenbord-vingerafdrukherkenning-i5-1035G1/dp/B0BWLVMNVX/ref=sr_1_23?keywords=laptop&qid=1691351574&sr=8-23
+------------------------------
+Product Name: Morostron
+Product Price: € 175,99
+Product URL: https://www.amazon.nl/Morostron-Windows11%E4%B8%A8Ultradun-IPS-scherm%E4%B8%A84GB-Notebook%E4%B8%A8Meerdere-Uitbreidingspoorten%E4%B8%A82-4G/dp/B0C1ZSX6KJ/ref=sr_1_24?keywords=laptop&qid=1691351574&sr=8-24
+------------------------------
+Product Name: HP EliteBook 840 G3 14 inch
+Product Price: € 229,00
+Product URL: https://www.amazon.nl/HP-EliteBook-840-inch-laptop/dp/B07RBVZLNT/ref=sr_1_25?keywords=laptop&qid=1691351574&sr=8-25
+------------------------------
+Product Name: Lenovo ThinkPad T450 |Intel i5 |2,3 GHz | 4-8GB |320-1000GB HDD/128-240-480GB SSD | 14 Inch |HD 1600x900 |Web Cam |Windows 10 |X01 Business Notebook (gecertificeerd en gerenoveerd) 4GB RAM - 320GB HDD
+Product Price: € 199,00
+Product URL: https://www.amazon.nl/Lenovo-320-1000GB-128-240-480GB-gecertificeerd-gerenoveerd/dp/B07B7MT17C/ref=sr_1_26?keywords=laptop&qid=1691351574&sr=8-26
+------------------------------
+Product Name: HP
+Product Price: € 469,00
+Product URL: https://www.amazon.nl/HP-840-G5-toetsenbord-gereviseerd/dp/B0BZ513ZPP/ref=sr_1_27?keywords=laptop&qid=1691351574&sr=8-27
+------------------------------
+Product Name: Morostron Touchscreen
+Product Price: € 430,99
+Product URL: https://www.amazon.nl/Morostron-Converteerbare-Quad-core%E4%B8%A8FHD-IPS-paneel%E4%B8%A82-4-Notebook%E4%B8%A8Volledig/dp/B0B8MRWJNQ/ref=sr_1_29?keywords=laptop&qid=1691351574&sr=8-29
+------------------------------
+Product Name: Windows 11-
+Product Price: € 240,99
+Product URL: https://www.amazon.nl/11-laptop-notebook-3K-paneel-toetsenbord-vingerafdruk/dp/B0BMLC5JFV/ref=sr_1_30?keywords=laptop&qid=1691351574&sr=8-30
+------------------------------
+Product Name: HP Victus 16-e0084ns Gaming-
+Product Price: € 895,41
+Product URL: https://www.amazon.nl/HP-16-e0084ns-Gaming-laptop-5-5600H-Windows/dp/B09HY51P24/ref=sr_1_31?keywords=laptop&qid=1691351574&sr=8-31
+------------------------------
+Product Name: HP Pavilion
+Product Price: € 949,00
+Product URL: https://www.amazon.nl/HP-15-eg2651nd-Antiglare-X%E1%B5%89-videokaart-QWERTY-Toetsenbord/dp/B0B4DSMT84/ref=sr_1_32?keywords=laptop&qid=1691351574&sr=8-32
+------------------------------
+Product Name: BYYBUO
+Product Price: € 186,99
+Product URL: https://www.amazon.nl/BYYBUO-Processor-Toetsenbord-Frankrijk-Draagbare/dp/B0C2YX6L4X/ref=sr_1_33?keywords=laptop&qid=1691351574&sr=8-33
+------------------------------
+Product Name: ASUS Vivobook 16 M1603QA-MB014W | 16" WUXGA IPS | AMD Ryzen 5 5600H | 8GB RAM | 512GB SSD | Windows OS | QWERTY Toetsenbord
+Product Price: € 785,00
+Product URL: https://www.amazon.nl/ASUS-Vivobook-M1603QA-MB014W-Windows-Toetsenbord/dp/B0BSF32V6N/ref=sr_1_34?keywords=laptop&qid=1691351574&sr=8-34
+------------------------------
+Product Name: HP
+Product Price: € 499,00
+Product URL: https://www.amazon.nl/HP-14s-dq2601nd-Antiglare-i3-1125G4-QWERTY-toetsenbord/dp/B0C4F5D9CF/ref=sr_1_35?keywords=laptop&qid=1691351574&sr=8-35
+------------------------------
+Product Name: ASUS TUF Gaming FX507ZU4-LP067W | 15" FHD IPS | Intel Core i7-12700H | 16GB RAM | 512GB SSD | GeForce RTX 4050 | Windows OS | QWERTY Toetsenbord
+Product Price: € 1.199,00
+Product URL: https://www.amazon.nl/ASUS-FX507ZU4-LP067W-i7-12700H-GeForce-Toetsenbord/dp/B0C5JPQ45X/ref=sr_1_36?keywords=laptop&qid=1691351574&sr=8-36
+------------------------------
+Product Name: Dell Chromebook 11 3180 83C80 11,6-inch traditionele
+Product Price: € 119,00
+Product URL: https://www.amazon.nl/Dell-Chromebook-traditionele-gereviseerd-Refurbished/dp/B0BLT5854G/ref=sr_1_37?keywords=laptop&qid=1691351574&sr=8-37
+------------------------------
+Product Name: HP Victus Gaming
+Product Price: € 1.099,00
+Product URL: https://www.amazon.nl/HP-15-fa1650nd-Antiglare-Videokaart-Toetsenbord/dp/B0C4F858GV/ref=sr_1_38?keywords=laptop&qid=1691351574&sr=8-38
+------------------------------
+Product Name: iStyle 15,6 inch
+Product Price: € 324,00
+Product URL: https://www.amazon.nl/iStyle-inch-Windows-notebook-uitbreidbaar/dp/B097JZYZCP/ref=sr_1_39?keywords=laptop&qid=1691351574&sr=8-39
+------------------------------
+Product Name: Lenovo IdeaPad 3 Chromebook | 14" HD TN | Intel Celeron N4020 | 4GB RAM | 64GB eMMC | Chrome OS | QWERTY Toetsenbord
+Product Price: € 232,99
+Product URL: https://www.amazon.nl/Lenovo-IdeaPad-Chromebook-Celeron-Toetsenbord/dp/B08XBY8SF9/ref=sr_1_40?keywords=laptop&qid=1691351574&sr=8-40
+------------------------------
+Product Name: Lenovo V V15 i5-1135G7 Notebook 39,6 cm (15,6 inch) Full HD Intel® Core™ i5 8 GB DDR4-SDRAM 256 GB SSD Wi-Fi 5 (802.11ac) Windows 1 Home zwart
+Product Price: € 592,93
+Product URL: https://www.amazon.nl/Lenovo-i5-1135G7-Notebook-DDR4-SDRAM-802-11ac/dp/B0BBH9XRYQ/ref=sr_1_41?keywords=laptop&qid=1691351574&sr=8-41
+------------------------------
+Product Name: HP
+Product Price: € 575,00
+Product URL: https://www.amazon.nl/HP-15s-eq2220nd-Antiglare-Windows-Toetsenbord/dp/B08WJM9PHQ/ref=sr_1_42?keywords=laptop&qid=1691351574&sr=8-42
+------------------------------
+Product Name: Lenovo IdeaPad Gaming 3 15.6"/Ryzen 5 5600H/8GB/512GB SSD/GeForce RTX 3060/Win 11
+Product Price: € 899,00
+Product URL: https://www.amazon.nl/Lenovo-IdeaPad-Gaming-Ryzen-GeForce/dp/B0BJF7YQDR/ref=sr_1_43?keywords=laptop&qid=1691351574&sr=8-43
+------------------------------
+Product Name: HP EliteBook 830 G5 13,3 inch Full HD
+Product Price: € 389,00
+Product URL: https://www.amazon.nl/HP-EliteBook-i5-8350U-antivirussoftware-gereviseerd/dp/B0B8J6VKK8/ref=sr_1_44?keywords=laptop&qid=1691351574&sr=8-44
+------------------------------
+Product Name: GF63 Thin 11UC-455NL (Gaming
+Product Price: € 1.043,07
+Product URL: https://www.amazon.nl/11UC-455NL-i7-11800H-RTX3050-Nederlands-Toetsenbord/dp/B09N47RSFJ/ref=sr_1_45?keywords=laptop&qid=1691351574&sr=8-45
+------------------------------
+Product Name: Morostron
+Product Price: € 499,99
+Product URL: https://www.amazon.nl/Morostron-Notebook%E4%B8%A8Volledig-Metaal%E4%B8%A8Verlicht-Toetsenbord-%E4%B8%A8Vingerafdruk/dp/B0BPX72BHR/ref=sr_1_46?keywords=laptop&qid=1691351574&sr=8-46
+------------------------------
+Product Name: ASUS TUF Gaming FX506HE-HN033W | 15.6" Full-HD IPS | Intel Core i5 11400H | NVIDIA GeForce RTX 3050 Ti | 16GB RAM | 1TB SSD | Windows OS | QWERTY Toetsenbord
+Product Price: € 999,00
+Product URL: https://www.amazon.nl/ASUS-FX506HE-HN033W-Full-HD-NVIDIA-GeForce-RTX-3050-Toetsenbord/dp/B0BK9KR5L7/ref=sr_1_47?keywords=laptop&qid=1691351574&sr=8-47
+------------------------------
+Product Name: TULPAR H4 V5.2.1 Business
+Product Price: € 982,12
+Product URL: https://www.amazon.nl/TULPAR-H4-V5-2-1-1920X1080-LED-display/dp/B0C3MTQDD4/ref=sr_1_49?keywords=laptop&qid=1691351587&sr=8-49
+------------------------------
+Product Name: RTLR Draagbare computer, zilveren Europese stekker voor
+Product Price: € 348,30
+Product URL: https://www.amazon.nl/RTLR-Draagbare-computer-vingerafdruklezer-EU-stekker/dp/B0BLRCV7M9/ref=sr_1_50?keywords=laptop&qid=1691351587&sr=8-50
+------------------------------
+Product Name: Lenovo ThinkPad T470 14 inch 1920 x 1080 Full HD Intel Core i5 7200U 256GB SSD harde schijf 8GB geheugen Windows 11 Home Webcam Notebook
+Product Price: € 388,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-geheugen-Notebook-gereviseerd/dp/B0BWDGWW6Z/ref=sr_1_52?keywords=laptop&qid=1691351587&sr=8-52
+------------------------------
+Product Name: Lenovo ThinkPad T480 14 inch 1920x1080 Full HD Intel Core i5 8350U 512GB SSD harde schijf 8GB geheugen Windows 11 Pro Webcam Notebook
+Product Price: € 333,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-geheugen-gereviseerd/dp/B0C4ZSB8J3/ref=sr_1_53?keywords=laptop&qid=1691351587&sr=8-53
+------------------------------
+Product Name: MOSISO
+Product Price: € 28,71
+Product URL: https://www.amazon.nl/MOSISO-Compatibel-Polyester-Multifunctioneel-Verdragend/dp/B01M6DPE50/ref=sr_1_54?keywords=laptop&qid=1691351587&sr=8-54
+------------------------------
+Product Name: Lenovo IdeaPad Flex 5 Chrome | 13.3" | Intel 6305 | 4GB RAM | 64GB eMMC | Windows OS | QWERTY Toetsenbord
+Product Price: € 339,00
+Product URL: https://www.amazon.nl/Lenovo-IdeaPad-Chrome-Windows-Toetsenbord/dp/B0BP8DPVL6/ref=sr_1_56?keywords=laptop&qid=1691351587&sr=8-56
+------------------------------
+Product Name: HP
+Product Price: € 549,00
+Product URL: https://www.amazon.nl/HP-15s-fq2412nd-i3-1125G4-Windows-Toetsenbord/dp/B0BSLPV2DN/ref=sr_1_57?keywords=laptop&qid=1691351587&sr=8-57
+------------------------------
+Product Name: Razer RZ09-03305E53-R3E1 Blade 15 Advanced,
+Product Price: € 3.881,02
+Product URL: https://www.amazon.nl/Razer-RZ09-03305E53-R3E1-i7-10875H-Nederlands-Toetsenbord/dp/B087VHQN9X/ref=sr_1_58?keywords=laptop&qid=1691351587&sr=8-58
+------------------------------
+Product Name: HP
+Product Price: € 659,00
+Product URL: https://www.amazon.nl/HP-15s-fq4630nd-Full-HD-i5-1155G7-Toetsenbord/dp/B0B4DR41XQ/ref=sr_1_59?keywords=laptop&qid=1691351587&sr=8-59
+------------------------------
+Product Name: Xshion ONE GX1 Pro i7 Handheld PC Gaming
+Product Price: € 1.519,99
+Product URL: https://www.amazon.nl/Xshion-Handheld-i7-1160G7-gamingtablet-notebook/dp/B096MD4Z9J/ref=sr_1_60?keywords=laptop&qid=1691351587&sr=8-60
+------------------------------
+Product Name: Apple MacBook Air-
+Product Price: € 979,00
+Product URL: https://www.amazon.nl/Apple-MacBook-Air-laptop-Retina-display-achtergrondverlichting/dp/B08N5Y9H7G/ref=sr_1_61?keywords=laptop&qid=1691351587&sr=8-61
+------------------------------
+Product Name: Apple 2022 MacBook Air met M2‑chip: 13,6‑inch Liquid Retina-display, 8GB RAM, 256 GB SSD-opslag; Middernacht
+Product Price: € 1.209,00
+Product URL: https://www.amazon.nl/Apple-2022-MacBook-M2%E2%80%91chip-Retina-display/dp/B0B3CC71T7/ref=sr_1_63?keywords=laptop&qid=1691351587&sr=8-63
+------------------------------
+Product Name: Modern 14 C12M-040NL (Personal
+Product Price: € 649,00
+Product URL: https://www.amazon.nl/C12M-040NL-Personal-i5-1235U-Nederlands-Toetsenbord/dp/B0BKTFBS5B/ref=sr_1_65?keywords=laptop&qid=1691351587&sr=8-65
+------------------------------
+Product Name: CHUWI HeroBook Pro Ultrabook Windows 11
+Product Price: € 319,00
+Product URL: https://www.amazon.nl/CHUWI-HeroBook-Ultrabook-Windows-Celeron/dp/B083B8L7Q9/ref=sr_1_67?keywords=laptop&qid=1691351587&sr=8-67
+------------------------------
+Product Name: HP Pavilion x360 (2-in-1
+Product Price: € 649,00
+Product URL: https://www.amazon.nl/HP-14-dy0204nd-Touchscreen-i3-1125G4-QWERTY-toetsenbord/dp/B0C4F6NX6F/ref=sr_1_68?keywords=laptop&qid=1691351587&sr=8-68
+------------------------------
+Product Name: MSI Modern 15 B7M-049NL (
+Product Price: € 809,00
+Product URL: https://www.amazon.nl/Modern-B7M-049NL-Laptop-bezel-Gen3x4/dp/B0BW9QC1K7/ref=sr_1_69?keywords=laptop&qid=1691351587&sr=8-69
+------------------------------
+Product Name: HP
+Product Price: € 569,00
+Product URL: https://www.amazon.nl/HP-15-fc0625nd-Antiglare-Windows-QWERTY-Toetsenbord/dp/B0C4F98DZ1/ref=sr_1_70?keywords=laptop&qid=1691351587&sr=8-70
+------------------------------
+Product Name: Acer Swift 1 (SF114-34-P98C) Ultrabook /
+Product Price: € 416,55
+Product URL: https://www.amazon.nl/Acer-SF114-34-P98C-Ultrabook-Laptop-Windows/dp/B09GK4ZS58/ref=sr_1_71?keywords=laptop&qid=1691351587&sr=8-71
+------------------------------
+Product Name: ASUS ZenBook Flip 13 EVO UX363EA-HP945W met touchscreen | 13.3" OLED | Intel Core i5-1135G7 | 8GB RAM | 512GB SSD | Windows OS | QWERTY Toetsenbord
+Product Price: € 899,00
+Product URL: https://www.amazon.nl/ASUS-UX363EA-HP945W-touchscreen-i5-1135G7-Toetsenbord/dp/B0BW47LX82/ref=sr_1_72?keywords=laptop&qid=1691351587&sr=8-72
+------------------------------
+Product Name: Acer Nitro 5 AN515-55-53E5 Gaming
+Product Price: € 899,00
+Product URL: https://www.amazon.nl/Acer-AN515-55-53E5-i5-10300H-IPS-scherm-toetsenbord/dp/B092YHJGMN/ref=sr_1_73?keywords=laptop&qid=1691351587&sr=8-73
+------------------------------
+Product Name: Lenovo ThinkPad T470 14 inch Touch Display 1920 x 1080 Full HD Intel Core i5 7300U 512GB SSD harde schijf 16GB geheugen Windows 11 Pro UMTS LTE Notebook
+Product Price: € 299,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-geheugen-Notebook-gereviseerd/dp/B0BZ7NTLCK/ref=sr_1_74?keywords=laptop&qid=1691351587&sr=8-74
+------------------------------
+Product Name: HP EliteBook 840 G2 14 inch HD-
+Product Price: € 219,54
+Product URL: https://www.amazon.nl/HP-EliteBook-HD-laptop-Professional-gereviseerd/dp/B09V5SJCJ3/ref=sr_1_75?keywords=laptop&qid=1691351587&sr=8-75
+------------------------------
+Product Name: Lenovo ThinkPad X1 Carbon 6 gen. Mobiele notebook Intel i7 4x1.9 GHz processor 16 GB geheugen 512 GB SSD 14 inch display Full HD 1920x1080 IPS Cam Windows 10 Pro GF7 (gereviseerd)
+Product Price: € 699,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-processor-1920x1080-gereviseerd/dp/B099ZXY2SL/ref=sr_1_77?keywords=laptop&qid=1691351587&sr=8-77
+------------------------------
+Product Name: 15,6 Inch
+Product Price: € 499,71
+Product URL: https://www.amazon.nl/Quad-core-IPS-scherm-Bluetooth-HD-camera-Draagbaar/dp/B0B24LKH3P/ref=sr_1_78?keywords=laptop&qid=1691351587&sr=8-78
+------------------------------
+Product Name: HP
+Product Price: € 355,00
+Product URL: https://www.amazon.nl/HP-455-G5-toetsenbord-gereviseerd/dp/B0C1C3CQPB/ref=sr_1_79?keywords=laptop&qid=1691351587&sr=8-79
+------------------------------
+Product Name: 15,6-inch
+Product Price: € 282,89
+Product URL: https://www.amazon.nl/6-inch-Laptop-IPS-scherm-Graphics-Windows/dp/B0BB3FHZXX/ref=sr_1_80?keywords=laptop&qid=1691351587&sr=8-80
+------------------------------
+Product Name: HP EliteBook 850 G1 15,6 inch HD Intel Core i5 128 GB SSD harde schijf 8 GB geheugen Windows 10 Home Fingerprint Notebook
+Product Price: € 283,80
+Product URL: https://www.amazon.nl/HP-EliteBook-geheugen-Fingerprint-gereviseerd/dp/B0C5LW6D6L/ref=sr_1_81?keywords=laptop&qid=1691351587&sr=8-81
+------------------------------
+Product Name: ACER Aspire 3 A317-53-545D | 17,3' FHD IPS glare | Intel Core i5-1135G7 | 8GB DDR4 | 512GB SSD | Intel Iris Xe Graphics | Windows 11 Home
+Product Price: € 679,00
+Product URL: https://www.amazon.nl/Aspire-A317-53-545D-i5-1135G7-Graphics-Windows/dp/B0BQCL5383/ref=sr_1_82?keywords=laptop&qid=1691351587&sr=8-82
+------------------------------
+Product Name: HP
+Product Price: € 629,00
+Product URL: https://www.amazon.nl/HP-17-cn0210nd-Antiglare-i3-1125G4-QWERTY-Toetsenbord/dp/B099FL7QKP/ref=sr_1_83?keywords=laptop&qid=1691351587&sr=8-83
+------------------------------
+Product Name: HP Victus 15-fb0665nd | 15.6" | AMD Ryzen 5 5600H | 8GB RAM | 512GB SSD | NVIDIA GeForce GTX 1650 | Windows OS | QWERTY Toetsenbord
+Product Price: € 869,00
+Product URL: https://www.amazon.nl/HP-15-fb0665nd-GeForce-Windows-Toetsenbord/dp/B0B4DSK9YW/ref=sr_1_84?keywords=laptop&qid=1691351587&sr=8-84
+------------------------------
+Product Name: Lenovo ThinkPad P50, Intel, 7 4 x 2,7 GHz processor, 64 GB, 240 GB SSD +1 000 GB HDD, 15,6 Full HD, 1920 x 1080, IPS nVidia 2 GB, Cam, Windows 10 Pro 1920 (gereviseerd)
+Product Price: € 850,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-processor-Windows-gereviseerd/dp/B07YK1Y8RC/ref=sr_1_85?keywords=laptop&qid=1691351587&sr=8-85
+------------------------------
+Product Name: 15,6 inch notebook, Intel Celeron N5105,
+Product Price: € 349,00
+Product URL: https://www.amazon.nl/notebook-Celeron-laptop-miljoen-afneembaar/dp/B0BRXJBLBV/ref=sr_1_86?keywords=laptop&qid=1691351587&sr=8-86
+------------------------------
+Product Name: Apple 2023 MacBook Air met M2‑chip: 15,3‑inch Liquid Retina-display, 8GB RAM, 512 GB SSD-opslag, toetsenbord met achtergrondverlichting, 1080p FaceTime HD-camera. Werkt met iPhone/iPad; Middernacht
+Product Price: € 1.739,00
+Product URL: https://www.amazon.nl/Apple-2023-MacBook-M2%E2%80%91chip-achtergrondverlichting/dp/B0C76FWVDL/ref=sr_1_87?keywords=laptop&qid=1691351587&sr=8-87
+------------------------------
+Product Name: HP Elitebook 840 G2 Premium Business Notebook - Windows 10 Pro - (gecertificeerd en gereviseerd) 16GB RAM | 500GB SSD
+Product Price: € 269,00
+Product URL: https://www.amazon.nl/HP-Elitebook-840-G2-Business/dp/B07NMQ2XKJ/ref=sr_1_88?keywords=laptop&qid=1691351587&sr=8-88
+------------------------------
+Product Name: BYYBUO
+Product Price: € 199,99
+Product URL: https://www.amazon.nl/BYYBUO-Prozessor-Frankreich-Dual-Band-Bluetooth/dp/B0BYRLT4H4/ref=sr_1_90?keywords=laptop&qid=1691351587&sr=8-90
+------------------------------
+Product Name: Acer Nitro 5 | 15.6" Full-HD IPS | Intel Core i5-11300H | 8GB RAM | 512GB SSD | Windows OS | QWERTY Toetsenbord
+Product Price: € 889,99
+Product URL: https://www.amazon.nl/Acer-Full-HD-i5-11300H-Windows-Toetsenbord/dp/B08QSG6JD8/ref=sr_1_91?keywords=laptop&qid=1691351587&sr=8-91
+------------------------------
+Product Name: msi GS66 11UH-079NL,GS66 Stealth 11UH-079NL (Gaming
+Product Price: € 4.172,48
+Product URL: https://www.amazon.nl/msi-GS66-11UH-079NL-Nederlands-Toetsenbord/dp/B093HH99S2/ref=sr_1_92?keywords=laptop&qid=1691351587&sr=8-92
+------------------------------
+Product Name: Acer Aspire 3 (A315-58-30H2)
+Product Price: € 577,34
+Product URL: https://www.amazon.nl/Acer-Aspire-A315-58-30H2-Laptop-Windows/dp/B09GK6ML3K/ref=sr_1_93?keywords=laptop&qid=1691351587&sr=8-93
+------------------------------
+Product Name: HP
+Product Price: € 537,89
+Product URL: https://www.amazon.nl/HP-i3-1115G4-geheugen-Graphics-toetsenbord/dp/B09RB5SXHB/ref=sr_1_94?keywords=laptop&qid=1691351587&sr=8-94
+------------------------------
+Product Name: Lenovo Yoga Slim 7 Pro Gen 7
+Product Price: € 1.148,06
+Product URL: https://www.amazon.nl/Lenovo-Laptop-i5-1240P-Graphics-Windows/dp/B09YVV8YYT/ref=sr_1_95?keywords=laptop&qid=1691351587&sr=8-95
+------------------------------
+Product Name: 15.6 Inch IPS HD Gaming
+Product Price: € 688,99
+Product URL: https://www.amazon.nl/Windows-draagbare-vingerafdruk-notebook-Ultrabook/dp/B0C86473VL/ref=sr_1_96?keywords=laptop&qid=1691351587&sr=8-96
+------------------------------
+Product Name: Win 11-
+Product Price: € 478,01
+Product URL: https://www.amazon.nl/1080-IPS-HD-scherm-N5095-Quad-Core-CPU-vingerafdruktoetsenbord-achtergrondverlichting-notebookcomputer/dp/B0BGQL18DF/ref=sr_1_97?keywords=laptop&qid=1691351599&sr=8-97
+------------------------------
+Product Name: Auusda 15,6"
+Product Price: € 614,49
+Product URL: https://www.amazon.nl/Auusda-notebook-Keyboard-Fingerprint-Computer/dp/B0C58PM1VJ/ref=sr_1_98?keywords=laptop&qid=1691351599&sr=8-98
+------------------------------
+Product Name: BlueBose 10,1 Zoll Windows 10
+Product Price: € 169,99
+Product URL: https://www.amazon.nl/BlueBose-Windows-Notebook-Computer-Bluetooth-klaviatur/dp/B09J12838G/ref=sr_1_99?keywords=laptop&qid=1691351599&sr=8-99
+------------------------------
+Product Name: SGIN SGIN-01
+Product Price: € 332,30
+Product URL: https://www.amazon.nl/SGIN-Dual-Band-Bluetooth-Ondersteuning-WLAN-uitbreiding/dp/B09HGP154J/ref=sr_1_100?keywords=laptop&qid=1691351599&sr=8-100
+------------------------------
+Product Name: HP
+Product Price: € 479,00
+Product URL: https://www.amazon.nl/HP-1030-touchscreen-QWERTZ-toetsenbord-gereviseerd/dp/B0BZD13K91/ref=sr_1_101?keywords=laptop&qid=1691351599&sr=8-101
+------------------------------
+Product Name: GIGABYTE A5 K1 ADE1130SD Gaming
+Product Price: € 1.114,00
+Product URL: https://www.amazon.nl/GIGABYTE-A5-ADE1130SD-GeForce-besturingssysteem/dp/B0B4SFR3WQ/ref=sr_1_102?keywords=laptop&qid=1691351599&sr=8-102
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 763,79
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-8QC-00005-Platin/dp/B09XV4C2NP/ref=sr_1_103?keywords=laptop&qid=1691351599&sr=8-103
+------------------------------
+Product Name: SGIN
+Product Price: € 852,82
+Product URL: https://www.amazon.nl/SGIN-Windows-Bluetooth-uitbreidbaar-geheugen/dp/B0C373QHB8/ref=sr_1_104?keywords=laptop&qid=1691351599&sr=8-104
+------------------------------
+Product Name: HP
+Product Price: € 629,00
+Product URL: https://www.amazon.nl/HP-Laptop-15s-eq3621nd-Full-HD-Toetsenbord/dp/B0B4DT57KF/ref=sr_1_105?keywords=laptop&qid=1691351599&sr=8-105
+------------------------------
+Product Name: Lenovo Legion 5 Gen 6 Notebook 39,6 cm (15,6 inch) FullHD 165 Hz (AMD Ryzen 7 5800H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3060-6GB, zonder besturingssysteem), blauw/zwart Spaans
+Product Price: € 1.587,68
+Product URL: https://www.amazon.nl/Lenovo-Notebook-GeForce-3060-6GB-besturingssysteem/dp/B09YVTWCPT/ref=sr_1_106?keywords=laptop&qid=1691351599&sr=8-106
+------------------------------
+Product Name: HP ENVY x360 (2-in-1
+Product Price: € 1.080,19
+Product URL: https://www.amazon.nl/HP-15-fh0370nd-Touchscreen-Windows-QWERTY-Toetsenbord/dp/B0C4F9XN88/ref=sr_1_107?keywords=laptop&qid=1691351599&sr=8-107
+------------------------------
+Product Name: Acer Chromebook 314 CB314-1HT-C1MQ
+Product Price: € 374,95
+Product URL: https://www.amazon.nl/Acer-Chromebook-CB314-1HT-C1MQ-Touchscreen-Graphics/dp/B08SJXVG2Y/ref=sr_1_109?keywords=laptop&qid=1691351599&sr=8-109
+------------------------------
+Product Name: Razer Blade Pro 17,
+Product Price: € 1.850,57
+Product URL: https://www.amazon.nl/Razer-Laptop-Full-HD-i7-10875H-Windows/dp/B088PLHPCF/ref=sr_1_110?keywords=laptop&qid=1691351599&sr=8-110
+------------------------------
+Product Name: 16,1 inch IPS HD Gaming
+Product Price: € 1.272,39
+Product URL: https://www.amazon.nl/i9-10885H-GeForce-Windows-Notebook-Computer/dp/B0C81JVRB7/ref=sr_1_111?keywords=laptop&qid=1691351599&sr=8-111
+------------------------------
+Product Name: Notebook, metalen behuizing, ACEMAGIC 15,6 inch FHD 16 GB DDR4 512 GB SSD, Intel Quad-Core N95 (tot 3,40 GHz) met Windows 11 Pro, lichte
+Product Price: € 390,54
+Product URL: https://www.amazon.nl/Notebook-metalen-behuizing-ACEMAGIC-Quad-Core/dp/B0CB7FRFZB/ref=sr_1_112?keywords=laptop&qid=1691351599&sr=8-112
+------------------------------
+Product Name: Byybuo
+Product Price: € 178,00
+Product URL: https://www.amazon.nl/Byybuo-Celeron-Processor-Windows-toetsenbord/dp/B0C4TF8CTX/ref=sr_1_114?keywords=laptop&qid=1691351599&sr=8-114
+------------------------------
+Product Name: Memory PC Lenovo (15,6 inch Full Hd mat)
+Product Price: € 399,00
+Product URL: https://www.amazon.nl/Memory-PC-Lenovo-QuadCore-Windows/dp/B0C46JR243/ref=sr_1_115?keywords=laptop&qid=1691351599&sr=8-115
+------------------------------
+Product Name: iSTYLE 10.1 inch Windows 10 Ultra Thin
+Product Price: € 169,99
+Product URL: https://www.amazon.nl/iSTYLE-10-1-Windows-Ultra-Laptop/dp/B0C4XVTGZ2/ref=sr_1_117?keywords=laptop&qid=1691351599&sr=8-117
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 2.079,00
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Intel-512GB/dp/B0BL1CT9Y4/ref=sr_1_118?keywords=laptop&qid=1691351599&sr=8-118
+------------------------------
+Product Name: Lenovo IdeaPad 3i
+Product Price: € 449,99
+Product URL: https://www.amazon.nl/Lenovo-IdeaPad-Business-Student-i3-1115G4/dp/B0BWJH7XNZ/ref=sr_1_119?keywords=laptop&qid=1691351599&sr=8-119
+------------------------------
+Product Name: Microsoft Surface
+Product Price: 2 capaciteiten
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Ryzen-3580U/dp/B084LKHGTD/ref=sr_1_120?keywords=laptop&qid=1691351599&sr=8-120
+------------------------------
+Product Name: GPD Win 3 PC Gaming Handheld 5.5 inches touchscreen Gaming
+Product Price: € 849,95
+Product URL: https://www.amazon.nl/Gaming-Handheld-touchscreen-i7-1165G7-Windows/dp/B0C32SQTTQ/ref=sr_1_121?keywords=laptop&qid=1691351599&sr=8-121
+------------------------------
+Product Name: CLASSIC
+Product Price: € 43,94
+Product URL: https://www.amazon.nl/CLASSIC-LAPTOP-CASE-15-BLACK/dp/B004WLH6P0/ref=sr_1_122?keywords=laptop&qid=1691351599&sr=8-122
+------------------------------
+Product Name: Acer Aspire 5 (A515-57-38L1)
+Product Price: € 699,99
+Product URL: https://www.amazon.nl/Acer-A515-57-38L1-i3-1215U-Graphics-toetsenbord/dp/B0BXPBQZ8Z/ref=sr_1_125?keywords=laptop&qid=1691351599&sr=8-125
+------------------------------
+Product Name: Acer Nitro 5 (AN515-45-R8YD) Gaming
+Product Price: € 2.084,35
+Product URL: https://www.amazon.nl/Acer-AN515-45-R8YD-Gaming-Laptop-Windows/dp/B09RK6T36T/ref=sr_1_126?keywords=laptop&qid=1691351599&sr=8-126
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 1.729,00
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Intel-512GB/dp/B0BL1GFKMR/ref=sr_1_127?keywords=laptop&qid=1691351599&sr=8-127
+------------------------------
+Product Name: 2023 Nieuwe 14 HD-
+Product Price: € 458,21
+Product URL: https://www.amazon.nl/Touchscreen-Laptopcomputer-Ontgrendelen-Vingerafdruk-Toetsenbord/dp/B0CBCBL8Y5/ref=sr_1_128?keywords=laptop&qid=1691351599&sr=8-128
+------------------------------
+Product Name: MSI Cyborg Gaming
+Product Price: € 1.069,99
+Product URL: https://www.amazon.nl/Display-i5-12450H-GeForce-Keyboard-Version/dp/B0CCJKRY7C/ref=sr_1_129?keywords=laptop&qid=1691351599&sr=8-129
+------------------------------
+Product Name: HP EliteBook 830 G5 13,3 inch 1920x1080 Full HD Intel Core i5 8350U 512GB SSD harde schijf 8GB geheugen Windows 11 Pro UMTS LTE webcam notebook
+Product Price: € 398,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0C81WJHL5/ref=sr_1_130?keywords=laptop&qid=1691351599&sr=8-130
+------------------------------
+Product Name: Lenovo ThinkPad T470 14 inch 1920 x 1080 Full HD Intel Core i5 512 GB SSD harde schijf 16 GB geheugen Windows 10 Pro webcam toetsenbordverlichting UMTS LTE Business Notebook
+Product Price: € 398,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-geheugen-toetsenbordverlichting-gereviseerd/dp/B0BZ3WWVLQ/ref=sr_1_131?keywords=laptop&qid=1691351599&sr=8-131
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 2.799,00
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Studio-i7-32GB/dp/B09X1XVCQP/ref=sr_1_132?keywords=laptop&qid=1691351599&sr=8-132
+------------------------------
+Product Name: iSTYLE 10.1" Windows 10 Ultra dunne Full HD
+Product Price: € 189,99
+Product URL: https://www.amazon.nl/iSTYLE-10-1-Bluetooth-Accessoires-Hoofdtelefoon/dp/B0851FHX2P/ref=sr_1_133?keywords=laptop&qid=1691351599&sr=8-133
+------------------------------
+Product Name: Morostron 15,6 Inch
+Product Price: € 355,99
+Product URL: https://www.amazon.nl/Morostron-Laptop%E4%B8%A8De-Processor%E4%B8%A8Windows-SSD%E4%B8%A8FHD-display-Toetsenbord%E4%B8%A8Vingerafdrukscanner/dp/B0C5LBY58V/ref=sr_1_134?keywords=laptop&qid=1691351599&sr=8-134
+------------------------------
+Product Name: TULPAR A5 V19.2.3 Gaming
+Product Price: € 1.481,80
+Product URL: https://www.amazon.nl/TULPAR-A5-1920X1080-LED-display-Notebook/dp/B0BCK2CJ1C/ref=sr_1_135?keywords=laptop&qid=1691351599&sr=8-135
+------------------------------
+Product Name: Apple 2022 MacBook Air
+Product Price: € 1.961,54
+Product URL: https://www.amazon.nl/Apple-2022-MacBook-Laptop-Chip/dp/B0B3BMTSKT/ref=sr_1_136?keywords=laptop&qid=1691351599&sr=8-136
+------------------------------
+Product Name: LG gram 14 inch Ultralight Notebook Windows 11 2021 Edition - 0,99 kg lichte Intel Core i7
+Product Price: € 1.915,81
+Product URL: https://www.amazon.nl/LG-gram-Ultralight-Notebook-Windows/dp/B09JCNMB57/ref=sr_1_137?keywords=laptop&qid=1691351599&sr=8-137
+------------------------------
+Product Name: ASUS
+Product Price: € 632,77
+Product URL: https://www.amazon.nl/ASUS-F515EA-BQ774T-notebook-anti-glare-i5-1135G7/dp/B095PR7G2L/ref=sr_1_138?keywords=laptop&qid=1691351599&sr=8-138
+------------------------------
+Product Name: Acer Swift 3 SF314-43
+Product Price: € 715,37
+Product URL: https://www.amazon.nl/Acer-SF314-43-Laptop-Graphics-Windows/dp/B08QSD7FGL/ref=sr_1_139?keywords=laptop&qid=1691351599&sr=8-139
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 2.079,00
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Intel-512GB/dp/B0BL1GLQ4L/ref=sr_1_140?keywords=laptop&qid=1691351599&sr=8-140
+------------------------------
+Product Name: HP
+Product Price: € 259,80
+Product URL: https://www.amazon.nl/HP-14s-dq3505ng-1920x1080-geheugen-gereviseerd/dp/B0BRSJVRD6/ref=sr_1_141?keywords=laptop&qid=1691351599&sr=8-141
+------------------------------
+Product Name: Acer Aspire 5 (A515-57-58LU)
+Product Price: € 834,27
+Product URL: https://www.amazon.nl/Acer-A515-57-58LU-i5-1235U-Graphics-toetsenbord/dp/B09X9B6NR9/ref=sr_1_142?keywords=laptop&qid=1691351599&sr=8-142
+------------------------------
+Product Name: LENOVO ThinkPad X1 Carbon 7e Gen | Intel Core i7-8665U | 1920 x 1080 FHD | NL Toetsenbord - QWERTZ | Windows 11 Pro | 512 GB SSD | 16 GB RAM | 14 inch | Krachtige
+Product Price: € 941,60
+Product URL: https://www.amazon.nl/ThinkPad-X1-Carbon-i7-8665U-Toetsenbord/dp/B0B6G53GJ4/ref=sr_1_143?keywords=laptop&qid=1691351599&sr=8-143
+------------------------------
+Product Name: Acer Swift 3 SF314-43
+Product Price: € 715,37
+Product URL: https://www.amazon.nl/Acer-SF314-43-Laptop-Graphics-Windows/dp/B08QSD7FGL/ref=sr_1_145?keywords=laptop&qid=1691351611&sr=8-145
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 2.079,00
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Intel-512GB/dp/B0BL1GLQ4L/ref=sr_1_146?keywords=laptop&qid=1691351611&sr=8-146
+------------------------------
+Product Name: HP
+Product Price: € 259,80
+Product URL: https://www.amazon.nl/HP-14s-dq3505ng-1920x1080-geheugen-gereviseerd/dp/B0BRSJVRD6/ref=sr_1_147?keywords=laptop&qid=1691351611&sr=8-147
+------------------------------
+Product Name: Acer Aspire 5 (A515-57-58LU)
+Product Price: € 834,27
+Product URL: https://www.amazon.nl/Acer-A515-57-58LU-i5-1235U-Graphics-toetsenbord/dp/B09X9B6NR9/ref=sr_1_148?keywords=laptop&qid=1691351611&sr=8-148
+------------------------------
+Product Name: LENOVO ThinkPad X1 Carbon 7e Gen | Intel Core i7-8665U | 1920 x 1080 FHD | NL Toetsenbord - QWERTZ | Windows 11 Pro | 512 GB SSD | 16 GB RAM | 14 inch | Krachtige
+Product Price: € 941,60
+Product URL: https://www.amazon.nl/ThinkPad-X1-Carbon-i7-8665U-Toetsenbord/dp/B0B6G53GJ4/ref=sr_1_149?keywords=laptop&qid=1691351611&sr=8-149
+------------------------------
+Product Name: Lenovo Thinkbook Aluminium toetsenbord met achtergrondverlichting, USB C-opladen, vingerafdruk,
+Product Price: € 594,53
+Product URL: https://www.amazon.nl/Lenovo-toetsenbord-achtergrondverlichting-vingerafdruk-512/dp/B0C9MZQKLV/ref=sr_1_151?keywords=laptop&qid=1691351611&sr=8-151
+------------------------------
+Product Name: Acer Nitro 5 AN517-53-55Z5
+Product Price: € 1.168,02
+Product URL: https://www.amazon.nl/Acer-AN517-53-55Z5-i5-11300H-GeForce-AZERTY-toetsenbord/dp/B09377MSVT/ref=sr_1_152?keywords=laptop&qid=1691351611&sr=8-152
+------------------------------
+Product Name: HP EliteBook 830 G5 13,3 inch 1920x1080 Full HD Intel Core i5 512GB SSD harde schijf 16GB geheugen Windows 11 Pro UMTS LTE webcam notebook
+Product Price: € 511,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0BLN7Z597/ref=sr_1_153?keywords=laptop&qid=1691351611&sr=8-153
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 1.129,99
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Platina-toetsenbord/dp/B07XVWXW1Q/ref=sr_1_154?keywords=laptop&qid=1691351611&sr=8-154
+------------------------------
+Product Name: Lenovo ThinkPad T480 14 inch 1920x1080 Full HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Pro webcam notebook
+Product Price: € 299,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-geheugen-gereviseerd/dp/B0BSL4YRYG/ref=sr_1_155?keywords=laptop&qid=1691351611&sr=8-155
+------------------------------
+Product Name: Acer Chromebook 314 CB314-2H Notebook met 35,6 cm (14 inch) Full HD,
+Product Price: 4 capaciteiten
+Product URL: https://www.amazon.nl/Acer-Chromebook-314-CB314-2H-zilverkleurig/dp/B09JZT2GPH/ref=sr_1_156?keywords=laptop&qid=1691351611&sr=8-156
+------------------------------
+Product Name: BMAX Y13 Plus Notebook, 12 GB RAM + 512 GB SSD 33,8 cm (13,3 inch) touchscreen, Windows 11 Pro 360°
+Product Price: € 402,48
+Product URL: https://www.amazon.nl/BMAX-Notebook-touchscreen-Windows-laptop/dp/B0C749J53V/ref=sr_1_157?keywords=laptop&qid=1691351611&sr=8-157
+------------------------------
+Product Name: MSI
+Product Price: € 339,00
+Product URL: https://www.amazon.nl/MSI-Laptop-MPG-Z490-Carbon/dp/B08B4W21QD/ref=sr_1_158?keywords=laptop&qid=1691351611&sr=8-158
+------------------------------
+Product Name: HP ENVY x360 Touchscreen 2-in-1
+Product Price: € 879,99
+Product URL: https://www.amazon.nl/HP-Touchscreen-Display-i7-11600H-Backlit/dp/B0CB83XG56/ref=sr_1_159?keywords=laptop&qid=1691351611&sr=8-159
+------------------------------
+Product Name: Windows 11
+Product Price: € 678,69
+Product URL: https://www.amazon.nl/draagbare-Notebook-Ultrabook-i7-9750H-Processor/dp/B0C716Q417/ref=sr_1_161?keywords=laptop&qid=1691351611&sr=8-161
+------------------------------
+Product Name: Lenovo ThinkPad T480s
+Product Price: € 399,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-T480s-i5-8350U-gereviseerd/dp/B0BWNJS9ZN/ref=sr_1_162?keywords=laptop&qid=1691351611&sr=8-162
+------------------------------
+Product Name: SGIN 15,6 inch
+Product Price: € 1.011,23
+Product URL: https://www.amazon.nl/SGIN-Quad-Core-Bluetooth-ondersteunt-uitbreidbaar/dp/B0CBTZ6FBF/ref=sr_1_163?keywords=laptop&qid=1691351611&sr=8-163
+------------------------------
+Product Name: Lenovo ThinkPad T580 15,6 inch 1920x1080 Full HD Intel Core i5 8350U 512GB SSD harde schijf 16GB geheugen Windows 11 Home incl. dockingstation webcam notebook
+Product Price: € 587,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-dockingstation-gereviseerd/dp/B0C8DMXKPJ/ref=sr_1_164?keywords=laptop&qid=1691351611&sr=8-164
+------------------------------
+Product Name: 14-inch
+Product Price: € 458,28
+Product URL: https://www.amazon.nl/Laptop-touchscreen-RAM-notebookcomputer-N5105-processor-Vingerafdruklezer-Koellichaambeugel/dp/B0C99LZJ7J/ref=sr_1_166?keywords=laptop&qid=1691351611&sr=8-166
+------------------------------
+Product Name: Byybuo
+Product Price: € 188,00
+Product URL: https://www.amazon.nl/Byybuo-Celeron-Processor-Windows-toetsenbord/dp/B0C4THQBY4/ref=sr_1_167?keywords=laptop&qid=1691351611&sr=8-167
+------------------------------
+Product Name: HP EliteBook 830 G6 13,3 inch 1920x1080 Full HD Intel Core i5 512GB SSD harde schijf 8GB geheugen Windows 10 Pro incl. Windows 11 Upgrade UMTS LTE Notebook
+Product Price: € 419,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0C4JD349X/ref=sr_1_168?keywords=laptop&qid=1691351611&sr=8-168
+------------------------------
+Product Name: HP ENVY
+Product Price: € 1.499,00
+Product URL: https://www.amazon.nl/HP-17-cw0670nd-Antiglare-i7-1355U-QWERTY-Toetsenbord/dp/B0C4F7RGPR/ref=sr_1_169?keywords=laptop&qid=1691351611&sr=8-169
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 1.449,00
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Intel-512GB/dp/B0BL1DNYT1/ref=sr_1_170?keywords=laptop&qid=1691351611&sr=8-170
+------------------------------
+Product Name: HP EliteBook 830 G5 13,3 inch 1920x1080 Full HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 11 Pro Webcam UMTS LTE Business Notebook
+Product Price: € 535,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0B6GGPGZD/ref=sr_1_171?keywords=laptop&qid=1691351611&sr=8-171
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 1.201,58
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Ryzen5-Qwerty/dp/B0933LGF7G/ref=sr_1_172?keywords=laptop&qid=1691351611&sr=8-172
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 1.560,33
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-inch-Qwerty/dp/B096VQL25S/ref=sr_1_173?keywords=laptop&qid=1691351611&sr=8-173
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 957,81
+Product URL: https://www.amazon.nl/Microsoft-Surface-Windows-touchscreen-toetsenbord/dp/B08JM1T5T1/ref=sr_1_174?keywords=laptop&qid=1691351611&sr=8-174
+------------------------------
+Product Name: HP EliteBook 850 G3 15,6 inch 1920x1080 Full HD Intel Core i7 512GB SSD harde schijf 16GB geheugen Windows 10 Pro incl. Dockingstation Business Notebook
+Product Price: € 461,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-Dockingstation-gereviseerd/dp/B0BBCH14KH/ref=sr_1_175?keywords=laptop&qid=1691351611&sr=8-175
+------------------------------
+Product Name: CLASSIC
+Product Price: € 55,00
+Product URL: https://www.amazon.nl/CLASSIC-LAPTOP-CASE-15-RED/dp/B0050JLXNY/ref=sr_1_176?keywords=laptop&qid=1691351611&sr=8-176
+------------------------------
+Product Name: Lenovo ThinkPad T460 14 inch 1920 x 1080 Full HD Intel Core i5 256 GB SSD harde schijf 8 GB geheugen Windows 10 Home Webcam Notebook
+Product Price: € 356,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-geheugen-Notebook-gereviseerd/dp/B0BM3K76M2/ref=sr_1_177?keywords=laptop&qid=1691351611&sr=8-177
+------------------------------
+Product Name: Apple 13-inch Macbook Pro met Retina - (Space Grey) (Intel Core i5 3,1 GHz processor, 8 GB RAM, 256 GB SSD, Intel Iris Plus Graphics 640, Mac OS X) (Refurbished)
+Product Price: € 749,00
+Product URL: https://www.amazon.nl/Apple-13-inch-Macbook-Pro-Retina/dp/B07H2HZDVQ/ref=sr_1_178?keywords=laptop&qid=1691351611&sr=8-178
+------------------------------
+Product Name: Dell Latitude 5400 14 inch 1920x1080 Full HD Intel Core i5 8365U 512GB SSD harde schijf 32GB geheugen Windows 10 Pro incl. Windows 11 Upgrade Webcam Notebook
+Product Price: € 482,80
+Product URL: https://www.amazon.nl/Dell-Latitude-1920x1080-geheugen-gereviseerd/dp/B0C9LYDZ4Z/ref=sr_1_179?keywords=laptop&qid=1691351611&sr=8-179
+------------------------------
+Product Name: Tulpar A7 V14.3 Intel Core i7 12700H 8 GB RAM 500 GB SSD RTX 3050 TI FreeDos 17,3 inch FHD 144Hz Gaming
+Product Price: € 1.087,37
+Product URL: https://www.amazon.nl/Tulpar-A7-V14-3-12700H-FreeDos/dp/B0B3NGFXYY/ref=sr_1_180?keywords=laptop&qid=1691351611&sr=8-180
+------------------------------
+Product Name: MSI Katana GF66 Gaming
+Product Price: € 1.239,99
+Product URL: https://www.amazon.nl/Anti-glare-i7-12700H-GeForce-Backlit-Version/dp/B0CCJLFVL6/ref=sr_1_181?keywords=laptop&qid=1691351611&sr=8-181
+------------------------------
+Product Name: Lenovo ThinkPad T590 15,6 inch 1920x1080 Full HD Intel Core i5 8365U 512GB SSD harde schijf 16GB geheugen Windows 11 Pro Webcam Notebook
+Product Price: € 629,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-geheugen-gereviseerd/dp/B0C13X2444/ref=sr_1_182?keywords=laptop&qid=1691351611&sr=8-182
+------------------------------
+Product Name: Razer Blade Stealth 13: Werelds Eerste Gaming-Ultrabook, FHD-120Hz Display, Intel Core i7 11e Generatie, NVIDIA GeForce GTX 1650 Ti, 16 GB RAM, 512 GB SSD, Chroma RGB-Verlichting | QWERTY, US-Layout
+Product Price: € 1.584,15
+Product URL: https://www.amazon.nl/Razer-Blade-Stealth-Gaming-Ultrabook-RGB-Verlichting/dp/B08KHLGFW9/ref=sr_1_183?keywords=laptop&qid=1691351611&sr=8-183
+------------------------------
+Product Name: Acer Nitro 5 Gaming
+Product Price: € 899,00
+Product URL: https://www.amazon.nl/Acer-Display-i5-10300H-American-Keyboard/dp/B0B2PV9VSX/ref=sr_1_184?keywords=laptop&qid=1691351611&sr=8-184
+------------------------------
+Product Name: Acer Predator Helios 300 Gaming-
+Product Price: € 1.449,00
+Product URL: https://www.amazon.nl/Acer-Predator-Gaming-laptop-FHD-scherm-RGB-toetsenbord/dp/B0BGQD4QMP/ref=sr_1_186?keywords=laptop&qid=1691351611&sr=8-186
+------------------------------
+Product Name: Jumper
+Product Price: 2 capaciteiten
+Product URL: https://www.amazon.nl/Microsoft-Notebook-Bluetooth-geheugenuitbreiding-HD-camera/dp/B09KGQZG2Y/ref=sr_1_187?keywords=laptop&qid=1691351611&sr=8-187
+------------------------------
+Product Name: ASUS B1500CENT-BQ1660R
+Product Price: € 777,50
+Product URL: https://www.amazon.nl/ASUS-B1500CENT-BQ1660R-I3-1115G4-Windows-toetsenbord/dp/B09BDBVD5K/ref=sr_1_188?keywords=laptop&qid=1691351611&sr=8-188
+------------------------------
+Product Name: 15.6 inch
+Product Price: € 630,29
+Product URL: https://www.amazon.nl/draagbare-notebook-Ultrabook-i5-1035G1-processor/dp/B0C6Y7ZRKL/ref=sr_1_189?keywords=laptop&qid=1691351611&sr=8-189
+------------------------------
+Product Name: HUAWEI MateBook 16
+Product Price: 2 capaciteiten
+Product URL: https://www.amazon.nl/HUAWEI-precisie-gezandstraald-keramisch-vingerafdruksensor-AZERTY-toetsenbord/dp/B09V1NXGCK/ref=sr_1_190?keywords=laptop&qid=1691351611&sr=8-190
+------------------------------
+Product Name: Lenovo IdeaPad 3
+Product Price: € 744,99
+Product URL: https://www.amazon.nl/Lenovo-IdeaPad-Anti-glare-Display-i5-1135G7/dp/B0CBPLHVWF/ref=sr_1_191?keywords=laptop&qid=1691351611&sr=8-191
+------------------------------
+Product Name: Lenovo IdeaPad 3
+Product Price: € 744,99
+Product URL: https://www.amazon.nl/Lenovo-IdeaPad-Anti-glare-Display-i5-1135G7/dp/B0CBPLHVWF/ref=sr_1_193?keywords=laptop&qid=1691351623&sr=8-193
+------------------------------
+Product Name: ASUS Chromebook C423 C423NA-BV0553
+Product Price: € 320,00
+Product URL: https://www.amazon.nl/ASUS-Chromebook-C423NA-BV0553-1366x768-Notebook/dp/B08CR7SY3H/ref=sr_1_195?keywords=laptop&qid=1691351623&sr=8-195
+------------------------------
+Product Name: 16" Gaming
+Product Price: € 992,46
+Product URL: https://www.amazon.nl/Gaming-Laptop-NVIDIA-Windows-Notebook/dp/B0C7W3FCR3/ref=sr_1_196?keywords=laptop&qid=1691351623&sr=8-196
+------------------------------
+Product Name: Lenovo, Notebook-pc direct klaar voor gebruik, 15,6 inch FHD Display N4500, 16 GB RAM, sshd 1256 GB, Windows 11 Pro,
+Product Price: € 480,38
+Product URL: https://www.amazon.nl/Lenovo-Notebook-pc-gebruik-Display-Windows/dp/B0C5W423H1/ref=sr_1_197?keywords=laptop&qid=1691351623&sr=8-197
+------------------------------
+Product Name: Apple 2023 MacBook Pro
+Product Price: € 2.873,60
+Product URL: https://www.amazon.nl/Apple-2023-MacBook-Laptop-gemeenschappelijk/dp/B0BSHJHT2Z/ref=sr_1_198?keywords=laptop&qid=1691351623&sr=8-198
+------------------------------
+Product Name: HP EliteBook 850 G3
+Product Price: € 332,98
+Product URL: https://www.amazon.nl/HP-EliteBook-850-G3-gereviseerd/dp/B0CBMMCZG8/ref=sr_1_199?keywords=laptop&qid=1691351623&sr=8-199
+------------------------------
+Product Name: Dell Latitude E5470 14 inch HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Home Notebook
+Product Price: € 272,80
+Product URL: https://www.amazon.nl/Dell-Latitude-geheugen-Notebook-gereviseerd/dp/B0B76GYYN8/ref=sr_1_200?keywords=laptop&qid=1691351623&sr=8-200
+------------------------------
+Product Name: MSI Katana GF66 12UC-456XES Gaming-
+Product Price: € 1.198,26
+Product URL: https://www.amazon.nl/Katana-12UC-456XES-Gaming-laptop-i5-12500H-RTX3050/dp/B0B1N5SLG5/ref=sr_1_201?keywords=laptop&qid=1691351623&sr=8-201
+------------------------------
+Product Name: HP
+Product Price: € 419,00
+Product URL: https://www.amazon.nl/HP-840-G3-toetsenbord-gereviseerd/dp/B0C5JKPJ2S/ref=sr_1_202?keywords=laptop&qid=1691351623&sr=8-202
+------------------------------
+Product Name: Dell Latitude 5480 14 inch HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Pro webcam business notebook
+Product Price: € 305,00
+Product URL: https://www.amazon.nl/Dell-Latitude-geheugen-business-gereviseerd/dp/B08RZ7Y4GD/ref=sr_1_203?keywords=laptop&qid=1691351623&sr=8-203
+------------------------------
+Product Name: HP EliteBook 850 G5 15,6 inch 1920x1080 Full HD Intel Core i5 8350U 256GB SSD harde schijf 8GB geheugen Windows 11 Pro Webcam Fingerprint Notebook
+Product Price: € 553,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-Fingerprint-gereviseerd/dp/B0C16MMFP8/ref=sr_1_204?keywords=laptop&qid=1691351623&sr=8-204
+------------------------------
+Product Name: Lenovo ThinkPad T480 14 inch Full HD
+Product Price: € 429,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-i5-8350U-antivirussoftware-gereviseerd/dp/B0B1QSBSNM/ref=sr_1_205?keywords=laptop&qid=1691351623&sr=8-205
+------------------------------
+Product Name: 16-inch
+Product Price: € 419,58
+Product URL: https://www.amazon.nl/N5105-processor-IPS-scherm-Ultradunne-Toetsenbord-Achtergrondverlichting/dp/B0BLZBPMZJ/ref=sr_1_208?keywords=laptop&qid=1691351623&sr=8-208
+------------------------------
+Product Name: HP EliteBook 830 G5 13,3 inch touchscreen, Intel Core i5, 256 GB SSD, harde schijf 8 GB geheugen, Windows 10 Pro webcam, vingerafdruk business notebook
+Product Price: € 472,80
+Product URL: https://www.amazon.nl/HP-EliteBook-touchscreen-vingerafdruk-gereviseerd/dp/B0B5KZP1R4/ref=sr_1_209?keywords=laptop&qid=1691351623&sr=8-209
+------------------------------
+Product Name: Dell Latitude 7480 14 inch 1920x1080 Full HD Intel Core i7 256GB SSD harde schijf 16 GB geheugen Windows 11 Pro webcam notebook
+Product Price: € 451,80
+Product URL: https://www.amazon.nl/Dell-Latitude-1920x1080-geheugen-gereviseerd/dp/B0CB5YHR3M/ref=sr_1_210?keywords=laptop&qid=1691351623&sr=8-210
+------------------------------
+Product Name: VANT MOOVE15 -
+Product Price: € 1.008,55
+Product URL: https://www.amazon.nl/VANT-MOOVE15-Laptop-i7-1255u-QWERTY-toetsenbord/dp/B09RQ37R2K/ref=sr_1_211?keywords=laptop&qid=1691351623&sr=8-211
+------------------------------
+Product Name: MICROTECH PC Notebook CoreBook Lite,
+Product Price: € 326,30
+Product URL: https://www.amazon.nl/MICROTECH-Notebook-Lite-FHD-scherm-Italiaanse/dp/B09BDCZXB3/ref=sr_1_212?keywords=laptop&qid=1691351623&sr=8-212
+------------------------------
+Product Name: Lenovo Yoga Slim 7 Pro Gen 7
+Product Price: € 1.268,79
+Product URL: https://www.amazon.nl/Lenovo-Laptop-i7-1260P-Graphics-Windows/dp/B09YVVXLRF/ref=sr_1_213?keywords=laptop&qid=1691351623&sr=8-213
+------------------------------
+Product Name: Apple MQD32 MacBook Air 13.3 Intel Core i5, 8GB, 128GB, macOS Sierra
+Product Price: € 635,00
+Product URL: https://www.amazon.nl/Apple-MacBook-Sierra-Laptop-Renewed/dp/B07HMNNZ57/ref=sr_1_217?keywords=laptop&qid=1691351623&sr=8-217
+------------------------------
+Product Name: Gigabyte AERO 5 KE4
+Product Price: € 2.099,00
+Product URL: https://www.amazon.nl/Gigabyte-AERO-KE4-Laptop-KE4-72EE614SH/dp/B0BL8183SG/ref=sr_1_218?keywords=laptop&qid=1691351623&sr=8-218
+------------------------------
+Product Name: 15,6-inch HD-
+Product Price: € 237,26
+Product URL: https://www.amazon.nl/HD-laptop-Gaming-laptop-IPS-scherm-J3355-processor-Toetsenblok/dp/B0BTD6RP1H/ref=sr_1_219?keywords=laptop&qid=1691351623&sr=8-219
+------------------------------
+Product Name: Seeds of Love: Four-Leaf Clover
+Product Price: € 7,01
+Product URL: https://www.amazon.nl/Seeds-Love-Four-Leaf-Clover-Organic/dp/B0C9S8B23S/ref=sr_1_220?keywords=laptop&qid=1691351623&sr=8-220
+------------------------------
+Product Name: HP EliteBook 830 G5 13,3 inch 1920x1080 Full HD Intel Core i5 8350U 512GB SSD harde schijf 8GB geheugen Windows 10 Pro incl. Windows 11 Upgrade UMTS LTE Notebook
+Product Price: € 388,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0C81VBB2D/ref=sr_1_222?keywords=laptop&qid=1691351623&sr=8-222
+------------------------------
+Product Name: Lenovo ThinkPad T14 Gen 3 Touch
+Product Price: € 1.074,99
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-Touchscreen-i7-1255U-Backlit/dp/B0BWY677RT/ref=sr_1_223?keywords=laptop&qid=1691351623&sr=8-223
+------------------------------
+Product Name: Dell Latitude 7480 14 inch Full HD
+Product Price: € 312,00
+Product URL: https://www.amazon.nl/Dell-Latitude-i5-7200U-antivirussoftware-gereviseerd/dp/B0B5VC829W/ref=sr_1_224?keywords=laptop&qid=1691351623&sr=8-224
+------------------------------
+Product Name: SGIN
+Product Price: € 393,13
+Product URL: https://www.amazon.nl/SGIN-Laptop-PC-FHD-display-ondersteunt-uitbreiding/dp/B09XM4BTR3/ref=sr_1_225?keywords=laptop&qid=1691351623&sr=8-225
+------------------------------
+Product Name: HP ELITEBOOK 840 G3
+Product Price: € 255,00
+Product URL: https://www.amazon.nl/HP-ELITEBOOK-I5-6200U-WINDOWS-vernieuwd/dp/B084GZ872B/ref=sr_1_226?keywords=laptop&qid=1691351623&sr=8-226
+------------------------------
+Product Name: ASUS VivoBook 14 Slim
+Product Price: € 514,99
+Product URL: https://www.amazon.nl/ASUS-VivoBook-i3-1215U-Fingerprint-Lay-flat/dp/B0C49T7F83/ref=sr_1_228?keywords=laptop&qid=1691351623&sr=8-228
+------------------------------
+Product Name: HP EliteBook 850 G4 15,6 inch 1920x1080 Full HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 11 Home Webcam Fingerprint Notebook
+Product Price: € 419,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-Fingerprint-gereviseerd/dp/B0C822J95W/ref=sr_1_229?keywords=laptop&qid=1691351623&sr=8-229
+------------------------------
+Product Name: HP EliteBook 830 G6 13,3 inch Touch Display 1920x1080 Full HD Intel Core i5 8365U 256GB SSD harde schijf 16GB geheugen Windows 10 Pro incl. Windows 11 Upgrade LTE
+Product Price: € 692,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0C3LX9PV2/ref=sr_1_230?keywords=laptop&qid=1691351623&sr=8-230
+------------------------------
+Product Name: Dell Latitude 5290 12,5 inch HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 11 Home Webcam Notebook
+Product Price: € 377,80
+Product URL: https://www.amazon.nl/Dell-Latitude-geheugen-Notebook-gereviseerd/dp/B0BY249V81/ref=sr_1_231?keywords=laptop&qid=1691351623&sr=8-231
+------------------------------
+Product Name: HP EliteBook x360 1030 G2 13,3 inch Touch Display 1920x1080 Full HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Pro Webcam Notebook
+Product Price: € 409,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0C17JS6LZ/ref=sr_1_233?keywords=laptop&qid=1691351623&sr=8-233
+------------------------------
+Product Name: 8 Inch
+Product Price: 3 capaciteiten
+Product URL: https://www.amazon.nl/Laptop-pc-Draagbare-Mini-laptop-Omklapbaar-EU-stekker/dp/B0CD9JJZL2/ref=sr_1_234?keywords=laptop&qid=1691351623&sr=8-234
+------------------------------
+Product Name: TULPAR T5 V23.2.3 Gaming
+Product Price: € 1.331,40
+Product URL: https://www.amazon.nl/TULPAR-T5-V23-2-3-1920X1080-LED-display/dp/B0CCFSWXVX/ref=sr_1_235?keywords=laptop&qid=1691351623&sr=8-235
+------------------------------
+Product Name: voor Studenten,
+Product Price: 2 capaciteiten
+Product URL: https://www.amazon.nl/Studenten-Dual-core-2500mAh-Batterij-EU-stekker/dp/B0CD1MWKV7/ref=sr_1_236?keywords=laptop&qid=1691351623&sr=8-236
+------------------------------
+Product Name: Lenovo IdeaPad 3 Chromebook,
+Product Price: € 270,74
+Product URL: https://www.amazon.nl/Lenovo-IdeaPad-Chromebook-Full-HD-ChromeOS/dp/B08KGSV91J/ref=sr_1_237?keywords=laptop&qid=1691351623&sr=8-237
+------------------------------
+Product Name: Dell Latitude 5580 15,6 inch 1920x1080 Full HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Home Notebook
+Product Price: € 388,80
+Product URL: https://www.amazon.nl/Dell-Latitude-1920x1080-geheugen-gereviseerd/dp/B0BT98L6W1/ref=sr_1_238?keywords=laptop&qid=1691351623&sr=8-238
+------------------------------
+Product Name: Lenovo ThinkPad X250 12,5 inch WXGA | Krachtige
+Product Price: € 319,00
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-Krachtige-toetsenbord-gereviseerd/dp/B092JN4HPR/ref=sr_1_239?keywords=laptop&qid=1691351623&sr=8-239
+------------------------------
+Product Name: Samsung Galaxy Book Pro LTE
+Product Price: € 2.496,19
+Product URL: https://www.amazon.nl/Samsung-Galaxy-generatie-Platform-geheugen/dp/B092SKQ5P2/ref=sr_1_240?keywords=laptop&qid=1691351623&sr=8-240
+------------------------------
+Product Name: Samsung Galaxy Book Pro LTE
+Product Price: € 2.496,19
+Product URL: https://www.amazon.nl/Samsung-Galaxy-generatie-Platform-geheugen/dp/B092SKQ5P2/ref=sr_1_241?keywords=laptop&qid=1691351634&sr=8-241
+------------------------------
+Product Name: Notebook Asus Gray
+Product Price: € 426,46
+Product URL: https://www.amazon.nl/Notebook-Display-i3-1005G1-Graphics-Bluetooth/dp/B08JDWHT19/ref=sr_1_242?keywords=laptop&qid=1691351634&sr=8-242
+------------------------------
+Product Name: HP 250 G8 5B6Q8ES (15,6 inch/Full HD IPS) Business
+Product Price: 2 capaciteiten
+Product URL: https://www.amazon.nl/HP-5B6Q8ES-Business-i5-1135G7-Windows/dp/B09N7HTLQM/ref=sr_1_243?keywords=laptop&qid=1691351634&sr=8-243
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 1.758,31
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Ryzen7-Qwerty/dp/B096VR15Y4/ref=sr_1_244?keywords=laptop&qid=1691351634&sr=8-244
+------------------------------
+Product Name: 14-inch
+Product Price: € 278,09
+Product URL: https://www.amazon.nl/14-inch-Windows-J4105-processor-HD-scherm-EU-stekker/dp/B0CBQLFYDB/ref=sr_1_245?keywords=laptop&qid=1691351634&sr=8-245
+------------------------------
+Product Name: SGIN
+Product Price: € 1.011,34
+Product URL: https://www.amazon.nl/SGIN-Notebook-Quad-Core-Bluetooth-uitbreidbaar/dp/B0CBTZ9R2M/ref=sr_1_246?keywords=laptop&qid=1691351634&sr=8-246
+------------------------------
+Product Name: HUAWEI MateBook D 15
+Product Price: € 968,74
+Product URL: https://www.amazon.nl/HUAWEI-Ultrabook-Oogcomfort-i5-1135G7-Vingerafdruk/dp/B09TFSS4KS/ref=sr_1_247?keywords=laptop&qid=1691351634&sr=8-247
+------------------------------
+Product Name: Microsoft Surface Pro 9, 13 inch 2-in-1 tablet/
+Product Price: € 1.564,85
+Product URL: https://www.amazon.nl/Microsoft-Surface-saffierblauw-aangedreven-platform/dp/B0BC9HTZSV/ref=sr_1_248?keywords=laptop&qid=1691351634&sr=8-248
+------------------------------
+Product Name: Ultradunne
+Product Price: € 348,66
+Product URL: https://www.amazon.nl/Ultradunne-HD-scherm-Thuislaptop-Bluetooth-Achtergrondverlichting/dp/B0BLXXNPTM/ref=sr_1_249?keywords=laptop&qid=1691351634&sr=8-249
+------------------------------
+Product Name: Microsoft Surface Pro 9, 13 inch 2-in-1 tablet/
+Product Price: € 1.273,59
+Product URL: https://www.amazon.nl/Microsoft-Surface-bosgroen-aangedreven-platform/dp/B0BC9KCX1J/ref=sr_1_250?keywords=laptop&qid=1691351634&sr=8-250
+------------------------------
+Product Name: HP Pavilion Aero
+Product Price: € 934,99
+Product URL: https://www.amazon.nl/HP-Pavilion-13-be2370nd-Antiglare-QWERTY-toetsenbord/dp/B0C4FBXB45/ref=sr_1_251?keywords=laptop&qid=1691351634&sr=8-251
+------------------------------
+Product Name: HP ZBook Fury 16 G9 Mobile Workstation
+Product Price: € 4.454,18
+Product URL: https://www.amazon.nl/HP-Workstation-Display-i7-12850HX-Vingerafdruklezer/dp/B0B9JFN3GT/ref=sr_1_252?keywords=laptop&qid=1691351634&sr=8-252
+------------------------------
+Product Name: Lenovo ThinkPad L480 14 inch 1920×1080 Full HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Pro incl. Windows 11 Upgrade Webcam Notebook
+Product Price: € 352,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920%C3%971080-geheugen-gereviseerd/dp/B0BN573VPG/ref=sr_1_253?keywords=laptop&qid=1691351634&sr=8-253
+------------------------------
+Product Name: TULPAR T5 V23.2 Gaming
+Product Price: € 1.473,76
+Product URL: https://www.amazon.nl/TULPAR-T5-V23-2-1920X1080-LED-display/dp/B0CCG3NDHG/ref=sr_1_255?keywords=laptop&qid=1691351634&sr=8-255
+------------------------------
+Product Name: TULPAR T5 V23.2.1 Gaming
+Product Price: € 1.646,60
+Product URL: https://www.amazon.nl/TULPAR-T5-V23-2-1-1920X1080-LED-display/dp/B0CCG6FVP9/ref=sr_1_256?keywords=laptop&qid=1691351634&sr=8-256
+------------------------------
+Product Name: HP 14 inch EliteBook 840 G3 Ultrabook - Full HD (1920x1080) Core i5-6300U 16 GB DDR4 256 GB SSD WebCam WiFi Windows 10 Professional 64-bit
+Product Price: € 319,00
+Product URL: https://www.amazon.nl/HP-EliteBook-840-G3-Ultrabook/dp/B08DKHQPCF/ref=sr_1_257?keywords=laptop&qid=1691351634&sr=8-257
+------------------------------
+Product Name: iSTYLE 10,1 inch Windows 10 Ultra Thin Full HD
+Product Price: € 189,00
+Product URL: https://www.amazon.nl/iSTYLE-inch-laptoptas-hoofdtelefoon-toetsenbord/dp/B09SPJ9QJ6/ref=sr_1_258?keywords=laptop&qid=1691351634&sr=8-258
+------------------------------
+Product Name: Studentenlaptop, 64G ROM Dual Core 10,1-inch
+Product Price: 2 capaciteiten
+Product URL: https://www.amazon.nl/Studentenlaptop-1-inch-Laptop-Lcd-scherm-EU-stekker/dp/B0CD2C28MP/ref=sr_1_259?keywords=laptop&qid=1691351634&sr=8-259
+------------------------------
+Product Name: Lenovo ThinkPad X280 12,5 inch 1920x1080 Full HD Intel Core i5 8350U 256GB SSD harde schijf 8GB geheugen Windows 11 Pro webcam notebook
+Product Price: € 356,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-geheugen-gereviseerd/dp/B0CBN5D2FH/ref=sr_1_260?keywords=laptop&qid=1691351634&sr=8-260
+------------------------------
+Product Name: Lenovo ThinkPad T590 15,6 inch 1920x1080 Full HD Intel Core i5 8365U 512GB SSD harde schijf 16GB geheugen Windows 11 Pro webcam vingerafdruk notebook
+Product Price: € 608,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-vingerafdruk-gereviseerd/dp/B0CBCSQ2LJ/ref=sr_1_261?keywords=laptop&qid=1691351634&sr=8-261
+------------------------------
+Product Name: Tulpar A7 V14.2 Intel Core i5 12500H 8 GB RAM 500 GB SSD RTX 3050 TI FreeDos 17,3 inch FHD 144Hz Gaming
+Product Price: € 1.015,19
+Product URL: https://www.amazon.nl/Tulpar-A7-V14-2-12500H-FreeDos/dp/B0B3NFPXMC/ref=sr_1_262?keywords=laptop&qid=1691351634&sr=8-262
+------------------------------
+Product Name: Microsoft Surface
+Product Price: € 4.817,34
+Product URL: https://www.amazon.nl/Microsoft-Surface-Laptop-Studio-Touchscreen/dp/B09F8J8D44/ref=sr_1_265?keywords=laptop&qid=1691351634&sr=8-265
+------------------------------
+Product Name: HP EliteBook 820 G4 12,5 inch HD Intel Core i5 7300U 256GB SSD harde schijf 16GB geheugen Windows 10 Pro Webcam Notebook
+Product Price: € 283,80
+Product URL: https://www.amazon.nl/HP-EliteBook-geheugen-Notebook-gereviseerd/dp/B0BZV6H7P3/ref=sr_1_268?keywords=laptop&qid=1691351634&sr=8-268
+------------------------------
+Product Name: ASUS TUF Gaming
+Product Price: € 1.249,00
+Product URL: https://www.amazon.nl/ASUS-FHD-scherm-i7-10870H-toetsenbord-achtergrondverlichting/dp/B0B61TJJ36/ref=sr_1_269?keywords=laptop&qid=1691351634&sr=8-269
+------------------------------
+Product Name: BD Electrics Intel i7-1255U Windows 11 Pro 15.6 inch FHD
+Product Price: € 1.399,00
+Product URL: https://www.amazon.nl/BD-Electrics-i7-1255U-Windows-Bluetooth/dp/B0CCZYDHD7/ref=sr_1_270?keywords=laptop&qid=1691351634&sr=8-270
+------------------------------
+Product Name: Lenovo ThinkPad L470 14 inch HD Intel Core i5 256GB SSD harde schijf 8GB geheugen Windows 10 Pro UMTS LTE webcam notebook
+Product Price: € 227,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-geheugen-notebook-gereviseerd/dp/B0C6YFV2Z4/ref=sr_1_272?keywords=laptop&qid=1691351634&sr=8-272
+------------------------------
+Product Name: 15,6 Inch
+Product Price: € 418,98
+Product URL: https://www.amazon.nl/Ultradunne-UHD-graphics-Toetsenbord-Achtergrondverlichting-MAh-batterij/dp/B0BHTFLLZR/ref=sr_1_273?keywords=laptop&qid=1691351634&sr=8-273
+------------------------------
+Product Name: 2 in 1
+Product Price: € 478,22
+Product URL: https://www.amazon.nl/Computer-10-8inch-Touchscreen-Notebook-Windows11/dp/B0BW4MH6MH/ref=sr_1_275?keywords=laptop&qid=1691351634&sr=8-275
+------------------------------
+Product Name: 15,6-inch
+Product Price: € 281,68
+Product URL: https://www.amazon.nl/Ultradunne-Quad-coreprocessor-Wifi-toetsenbord-Achtergrondverlichting-Gaminglaptop/dp/B0B1KH1HTX/ref=sr_1_276?keywords=laptop&qid=1691351634&sr=8-276
+------------------------------
+Product Name: Apple 2023 MacBook Pro
+Product Price: € 2.873,60
+Product URL: https://www.amazon.nl/Apple-2023-MacBook-Laptop-Chip/dp/B0BSHHBH3N/ref=sr_1_277?keywords=laptop&qid=1691351634&sr=8-277
+------------------------------
+Product Name: Lenovo ThinkPad P50 15,6 inch 1920x1080 Full HD Intel Core i7 512GB SSD harde schijf 16 GB geheugen Windows 10 Pro Nvidia Quadro M1000M UMTS LTE notebook
+Product Price: € 553,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-geheugen-gereviseerd/dp/B0C9XDFL66/ref=sr_1_278?keywords=laptop&qid=1691351634&sr=8-278
+------------------------------
+Product Name: Surface
+Product Price: € 1.597,04
+Product URL: https://www.amazon.nl/Surface-Laptop-Custom-AMD-Ultra-Portable/dp/B07XDYRMTV/ref=sr_1_279?keywords=laptop&qid=1691351634&sr=8-279
+------------------------------
+Product Name: Lenovo ThinkPad T580 15,6 inch 1920x1080 Full HD Intel Core i5 512GB SSD harde schijf 8GB geheugen Windows 11 Pro Webcam Notebook
+Product Price: € 577,80
+Product URL: https://www.amazon.nl/Lenovo-ThinkPad-1920x1080-geheugen-gereviseerd/dp/B0BMPGH6KC/ref=sr_1_282?keywords=laptop&qid=1691351634&sr=8-282
+------------------------------
+Product Name: HP EliteBook 830 G6 13,3 inch 1920x1080 Full HD Intel Core i5 8365U 512GB SSD harde schijf 8GB geheugen Windows 11 Pro UMTS LTE webcam notebook
+Product Price: € 419,80
+Product URL: https://www.amazon.nl/HP-EliteBook-1920x1080-geheugen-gereviseerd/dp/B0C7WGGQV2/ref=sr_1_283?keywords=laptop&qid=1691351634&sr=8-283
+------------------------------
+Product Name: KingnovyPC 15,6 inch Intel Core i7 1065G7 MX330 2G
+Product Price: € 795,95
+Product URL: https://www.amazon.nl/KingnovyPC-Fingerprint-Ultrabook-Notebook-Chocolate/dp/B0C89YV2W5/ref=sr_1_284?keywords=laptop&qid=1691351634&sr=8-284
+------------------------------
+Product Name: 15,6-inch
+Product Price: € 348,70
+Product URL: https://www.amazon.nl/IPS-scherm-CPU-laptopcomputer-Verlicht-Toetsenbord-Vingerafdruklezer/dp/B0BL7VTDKK/ref=sr_1_285?keywords=laptop&qid=1691351634&sr=8-285
+------------------------------
+Product Name: iSTYLE 15,6-inch
+Product Price: € 456,25
+Product URL: https://www.amazon.nl/ultradunne-notebook-j3455-processor-opslagruimte-Bluetooth/dp/B08Z39SRX4/ref=sr_1_286?keywords=laptop&qid=1691351634&sr=8-286
+------------------------------
+Product Name: HP
+Product Price: € 529,00
+Product URL: https://www.amazon.nl/HP-Laptop-14s-dq2402nd-Windows-Toetsenbord/dp/B0BKGY7SV4/ref=sr_1_287?keywords=laptop&qid=1691351634&sr=8-287
+------------------------------
+Product Name: iSTYLE 15,6-inch
+Product Price: € 456,25
+Product URL: https://www.amazon.nl/ultradunne-notebook-j3455-processor-opslagruimte-Bluetooth/dp/B08Z39SRX4/ref=sr_1_289?keywords=laptop&qid=1691351647&sr=8-289
+------------------------------
+Product Name: HP
+Product Price: € 529,00
+Product URL: https://www.amazon.nl/HP-Laptop-14s-dq2402nd-Windows-Toetsenbord/dp/B0BKGY7SV4/ref=sr_1_290?keywords=laptop&qid=1691351647&sr=8-290
+------------------------------
+Product Name: 14-inch
+Product Price: € 239,88
+Product URL: https://www.amazon.nl/Ultradunne-Gaming-laptop-N4020-processor-HD-scherm-5000mAh-batterij/dp/B0BTTHXWT3/ref=sr_1_292?keywords=laptop&qid=1691351647&sr=8-292
+------------------------------
+Product Name: Dell Latitude 5490 14 inch 1920x1080 Full HD Intel Core i5 8350U 256GB SSD harde schijf 8GB geheugen Windows 11 Pro Webcam Notebook
+Product Price: € 399,00
+Product URL: https://www.amazon.nl/Dell-Latitude-1920x1080-geheugen-gereviseerd/dp/B0BZ1NBQ61/ref=sr_1_293?keywords=laptop&qid=1691351647&sr=8-293
+------------------------------
+Product Name: Lenovo Yoga Slim 7 Pro Gen 7
+Product Price: € 1.339,99
+Product URL: https://www.amazon.nl/Lenovo-i5-1240P-Graphics-Windows-QWERTY-toetsenbord/dp/B0BSVHKMMY/ref=sr_1_294?keywords=laptop&qid=1691351647&sr=8-294
+------------------------------
+Product Name: HP ZBook 15 G6 15,6 inch 1920x1080 Full HD Intel Six Core i7 512GB SSD harde schijf 16GB geheugen Windows 10 Pro Nvidia Quadro T1000 Mobile Workstation Notebook
+Product Price: € 965,80
+Product URL: https://www.amazon.nl/HP-1920x1080-geheugen-Workstation-gereviseerd/dp/B0C38R9R98/ref=sr_1_295?keywords=laptop&qid=1691351647&sr=8-295
+------------------------------
+Product Name: Jumper
+Product Price: € 333,88
+Product URL: https://www.amazon.nl/Notebook-Processor-Computer-Bluetooth-uitbreidbaar/dp/B089FXZNT3/ref=sr_1_296?keywords=laptop&qid=1691351647&sr=8-296
+------------------------------
+Product Name: TULPAR T7 V20.6 Gaming
+Product Price: € 1.727,95
+Product URL: https://www.amazon.nl/TULPAR-1920X1080-LED-display-Windows-Notebook/dp/B0CB4FFHKQ/ref=sr_1_297?keywords=laptop&qid=1691351647&sr=8-297
+------------------------------
+Product Name: Hp 6Xd77Ea#Abh Elitebook 840 G6
+Product Price: € 54,90
+Product URL: https://www.amazon.nl/6Xd77Ea-Elitebook-Laptop-I5-8265U-Windows/dp/B076H21ZZW/ref=sr_1_298?keywords=laptop&qid=1691351647&sr=8-298
+------------------------------
+Product Name: 15,6-inch
+Product Price: € 499,70
+Product URL: https://www.amazon.nl/Traditionele-Stijlvolle-Lichtgewicht-Ips-scherm-Touchpad-computerlaptop/dp/B0B1MWTMXQ/ref=sr_1_300?keywords=laptop&qid=1691351647&sr=8-300
+------------------------------
+Product Name: HP Pavilion
+Product Price: € 934,99
+Product URL: https://www.amazon.nl/HP-Pavilion-15-eh3375nd-Antiglare-QWERTY-toetsenbord/dp/B0C4F5FDQZ/ref=sr_1_301?keywords=laptop&qid=1691351647&sr=8-301
+------------------------------
+Product Name: Acer A315-58-36XY Grijs Intel® Core™ i3-1115G4 8GB DDR4 SSD 256GB Intel® UHD Graphics 15,6 inch LCD - Technologie IPS FHD win11 DAS 0,93
+Product Price: € 570,00
+Product URL: https://www.amazon.nl/Laptop-Acer-A315-58-36XY-i3-1115G4-Graphics/dp/B09MSB387V/ref=sr_1_302?keywords=laptop&qid=1691351647&sr=8-302
+------------------------------
+Product Name: ASUS VivoBook Light and Thin
+Product Price: € 634,99
+Product URL: https://www.amazon.nl/ASUS-VivoBook-Display-i5-1135G7-Version/dp/B0C9M6LMYQ/ref=sr_1_304?keywords=laptop&qid=1691351647&sr=8-304
+------------------------------
+Product Name: Fujitsu Notebook 14 inch LifeBook E546 Windows 11 Core i3 2,3 GHz Webcam PC
+Product Price: € 363,83
+Product URL: https://www.amazon.nl/Fujitsu-Notebook-E546-SmartWorking-gereviseerd/dp/B09MDH8DPG/ref=sr_1_305?keywords=laptop&qid=1691351647&sr=8-305
+------------------------------
+Product Name: Dell Latitude 7390 13,3 inch 1920x1080 Full HD Intel Core i5 8350U 256GB SSD harde schijf 8GB geheugen Windows 10 Home incl. Windows 11 Upgrade Webcam Notebook
+Product Price: € 461,80
+Product URL: https://www.amazon.nl/Dell-Latitude-1920x1080-geheugen-gereviseerd/dp/B0C6Q6G1V5/ref=sr_1_306?keywords=laptop&qid=1691351647&sr=8-306
+------------------------------
+Total products found for 'laptop': 264
