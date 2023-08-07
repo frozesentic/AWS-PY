@@ -18,7 +18,7 @@ def scrape_amazon():
     base_url = f"https://www.amazon.nl/s?k={search_term}"
 
     # Configure the path to your downloaded web driver
-    driver_path = r"C:\Users\CasReehuis\PycharmProjects\WS&PC\chromedriver.exe"
+    driver_path = r"C:\Users\{User}\PycharmProjects\WS&PC\chromedriver.exe"
     service = webdriver.chrome.service.Service(driver_path)
     service.start()
 
