@@ -11,3 +11,4 @@
 5. Put the crhomedriver.exe file in the same directory as the main.py file
 6. Fill in a search term of your chose and run the program
 7. The results will be put in the scraped_products.txt file
+t
