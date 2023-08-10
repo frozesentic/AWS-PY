@@ -1,4 +1,5 @@
-<h1 align="center">AWS-PY</h1>
+<h1 align="center">AWS-PY</h1><p align="center"><img src="https://github.com/frozesentic/AWS-PY/assets/99868523/d562a4e8-2507-4c5e-a7ac-9e136bc7ae15)" width=10% height=20%>
+
 
 <p align="center"><img src="https://github.com/frozesentic/AWS-PY/assets/99868523/6b25f9a8-abfa-4974-8789-840e53ef6723)" width=100% height=20%>
 
