@@ -8,7 +8,4 @@
 2. Imput a desired search term 
 3. Imput the websites search url, "{search_term}" stays the same (ex. https://www.amazon.nl/s?k={search_term} )\
 -> for target it would be: https://www.target.com/s?searchTerm={search_term}
-4. Install chromedriver
-5. Put the crhomedriver.exe file in the same directory as the main.py file
 6. Fill in a search term of your chose and run the program
-7. The results will be put in the scraped_products.txt file
